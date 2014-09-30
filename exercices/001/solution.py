@@ -9,11 +9,10 @@ Project    : print alpha
 Created on : Tue Sep 30 15:25:32 2014
 
 References
- [argv](https://docs.python.org/3.4/library/sys.html)
- [import](https://docs.python.org/3/reference/simple_stmts.html#import)
-
+ [print](https://docs.python.org/3/tutorial/index.html)
+ [strings](https://docs.python.org/3/tutorial/introduction.html#strings)
 Course material at
 https://github.com/hackinscience/hackinscience.github.io/wiki/Start-Here
 
 """
-print('"Hello World".')
+print('abcdefghijklmnopqrstuvwxyz')
