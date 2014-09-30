@@ -17,5 +17,5 @@ https://github.com/hackinscience/hackinscience.github.io/wiki/Start-Here
 
 """
 
-number=42
+number = 42
 print(number)
