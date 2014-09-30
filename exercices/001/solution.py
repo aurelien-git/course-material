@@ -15,4 +15,4 @@ Course material at
 https://github.com/hackinscience/hackinscience.github.io/wiki/Start-Here
 
 """
-print('abcdefghijklmnopqrstuvwxyz')
+print('abcdefghijklnmopqrstuvwxyz')
