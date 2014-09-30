@@ -3,7 +3,7 @@
 
 """
 License    : GNU GPL v3 or later
-Author     : Aurélien DESBRIÈRES
+Author     : Aurélien
 Mail       : aurelien@hackers.camp
 Project    : print "Hello World".
 Created on : Tue Sep 30 08:39:03 2014
