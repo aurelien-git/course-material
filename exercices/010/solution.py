@@ -18,4 +18,4 @@ https://github.com/hackinscience/hackinscience.github.io/wiki/Start-Here
 """
 
 for i in range(1, 100):
-    print ('Hello World')
+    print('Hello World')
