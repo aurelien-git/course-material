@@ -17,5 +17,5 @@ https://github.com/hackinscience/hackinscience.github.io/wiki/Start-Here
 
 """
 
-for i in range(1, 100):
+for i in range(100):
     print('Hello World')
